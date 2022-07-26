@@ -1,9 +1,9 @@
 <h1 align="center">Cześć 👋, jestem rvyk</h1>
 
-- 🔭 Aktualnie pracuję nad **Minecraft Madcore Client** - 📫 Kontakt ze mną
-(discord) **rvyk#4848**
+- 🔭 Aktualnie pracuję nad **Minecraft Madcore Client**
+- 📫 Kontakt ze mną (discord) **rvyk#4848**
 
-<h3 align="left">Języki:</h3>
+<h3 align="center">Języki:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
@@ -112,7 +112,7 @@
     />
   </a>
 </p>
-<h3 align="left">Database:</h3>
+<h3 align="left">Inne:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -122,9 +122,6 @@
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Devops:</h3>
-<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -141,9 +138,6 @@
       height="40"
     />
   </a>
-</p>
-<h3 align="left">BaaS:</h3>
-<p align="left">
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -152,9 +146,6 @@
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Software:</h3>
-<p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -179,10 +170,6 @@
       height="40"
     />
   </a>
-</p>
-
-<h3 align="left">Framework:</h3>
-<p align="left">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -199,9 +186,6 @@
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Inne:</h3>
-<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
