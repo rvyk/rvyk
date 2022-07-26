@@ -1,5 +1,4 @@
 <h1 align="center">Cześć 👋, jestem rvyk</h1>
-<h3 align="center">Lubię śmieszne żarty</h3>
 
 - 🔭 Aktualnie pracuję nad **Minecraft Madcore Client**
 
