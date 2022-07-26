@@ -6,7 +6,8 @@ Co używam:
 - Javascript + Node.js -> Electron, express
 - Python -> Flask, nextcord
 - C# -> Unity
-- HTML/CSS
+- HTML
+- CSS
 
 Bazy danych:
 - mongodb
