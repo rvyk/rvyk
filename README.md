@@ -1,6 +1,7 @@
 <h1 align="center">Cześć 👋, jestem rvyk</h1>
 
 - 🔭 Aktualnie pracuję nad **Minecraft Madcore Client**
+- 🌱 Aktualnie uczę się **Javascript, Java, React**
 - 📫 Kontakt ze mną (discord) **rvyk#4848**
 
 <h3 align="center">Języki:</h3>
@@ -67,26 +68,10 @@
       height="40"
     />
   </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      alt="pug"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
       width="40"
       height="40"
     />
