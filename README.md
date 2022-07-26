@@ -4,7 +4,7 @@
 - 📫 Kontakt ze mną (discord) **rvyk#4848**
 
 <h3 align="center">Języki:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -34,8 +34,8 @@
     />
   </a>
 </p>
-<h3 align="left">Frontend:</h3>
-<p align="left">
+<h3 align="center">Frontend:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -93,8 +93,8 @@
     />
   </a>
 </p>
-<h3 align="left">Backend:</h3>
-<p align="left">
+<h3 align="center">Backend:</h3>
+<p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -112,8 +112,8 @@
     />
   </a>
 </p>
-<h3 align="left">Inne:</h3>
-<p align="left">
+<h3 align="center">Inne:</h3>
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
