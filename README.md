@@ -1,7 +1,6 @@
 <h1 align="center">Cześć 👋, jestem rvyk</h1>
 
-- 🔭 Aktualnie pracuję nad **Minecraft Madcore Client**
-- 🌱 Aktualnie uczę się **Javascript, Java, React**
+- 🔭 Aktualnie pracuję nad **BetterVulcan**
 - 📫 Kontakt ze mną (discord) **rvyk#4848**
 
 <h3 align="center">Języki:</h3>
