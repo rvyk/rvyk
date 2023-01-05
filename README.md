@@ -4,9 +4,7 @@
 - 📫 Kontakt ze mną (discord) **rvyk#4848**
 
 <h3 align="center">Languages</h3>
-<p align="center">
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
