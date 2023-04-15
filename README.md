@@ -8,7 +8,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  
+  **Languages and Tools:**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -27,7 +29,7 @@
 
 <div align="center">
   
-**📊 Statistics:** 
+**Statistics:** 
   
 | ![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true) |
 | :-------------: |
