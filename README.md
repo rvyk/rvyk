@@ -17,8 +17,11 @@
 <div align="center">
   
 <h3 align="center">Statistics:</h3>
-![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true)
-</div>
+  
+| ![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true) |
+| :-------------: |
+  
+ </div>
 
 
 | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rvyk&langs_count=8&layout=compact&cache_seconds=86400&theme=omni&hide_border=true) | ![rvyk's Stats](https://github-readme-stats.vercel.app/api?username=rvyk&theme=omni&show_icons=true&hide_border=true&count_private=true) |
