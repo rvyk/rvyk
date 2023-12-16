@@ -17,8 +17,7 @@
 <div align="center">
   
 <h3 align="center">Statistics:</h3>
-| ![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true) |
-| :-------------: |
+![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true)
 </div>
 
 
