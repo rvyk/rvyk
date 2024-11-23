@@ -5,8 +5,6 @@
 
 - 🌱 I'm currently learning **Java, C++**
 
-- 📫 How to reach me **me@rvyk.tech**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
