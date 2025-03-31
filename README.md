@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm rvyk</h1>
-<h3 align="center">Paweł Szymański</h3>
+<h1>Hi 👋, I'm Paweł Szymański</h1>
+<h3>Front-end Developer with a passion for modern web technologies</h3>
 
-- 🔭 I'm currently working on [zstio-timetable](https://github.com/rvyk/zstio-timetable)
+- 💬 Feel free to reach out to me on Discord: rvyk
 
-- 🌱 I'm currently learning **Java, C++**
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" style="margin: 2px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" style="background-color: #ffffff; border-radius: 100%; padding: 2px; margin: 2px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  style="margin: 2px;"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="36" style="margin: 2px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb logo" style="margin: 2px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="firebase logo"  style="margin: 2px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" style="margin: 2px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  style="margin: 2px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="nginx logo" style="margin: 2px;" />
+<h3 align="left">Technologies and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-<div align="center">
-  
-<h3 align="center">Statistics:</h3>
-  
-| ![rvyk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvyk&theme=omni&hide_border=true) |
-| :-------------: |
-  
- </div>
-
-
-| ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rvyk&langs_count=8&layout=compact&cache_seconds=86400&theme=omni&hide_border=true) | ![rvyk's Stats](https://github-readme-stats.vercel.app/api?username=rvyk&theme=omni&show_icons=true&hide_border=true&count_private=true) |
-| ------------- | ------------- |
+<h3 align="left">Contact:</h3>
+<p align="left">
+  <a href="mailto:szymanskipawel327@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
